@@ -1,2 +1,2 @@
 ## 🌐 Live Website  
-[View Portfolio](https://meghana1310b.github.io/Portfolio/)
+[View Portfolio](https://meghana1310b.github.io/Potfolio/)
